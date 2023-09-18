@@ -1,5 +1,5 @@
 # Projeto de ETL para Cálculo do Valor Bruto de Aluguéis 
-Este é um projeto Python que visa realizar uma extração, transformação e load (ETL) de um conjunto de dados em formato CSV contendo informações sobre aluguéis. O objetivo principal deste projeto é calcular o valor bruto, o valor por m2 e o valor bruto por m2 dos aluguéis com base nos dados fornecidos e criar um novo conjunto de dados limpo e processado que reflete esses cálculos. 
+Este é um projeto Python que visa realizar uma extração, transformação e carregamento (ETL) de um conjunto de dados em formato CSV contendo informações sobre aluguéis. O objetivo principal deste projeto é calcular o valor bruto, o valor por m2 e o valor bruto por m2 dos aluguéis com base nos dados fornecidos e criar um novo conjunto de dados limpo e processado que reflete esses cálculos. 
 ## Funcionalidades Principais
 - Extração dos dados: Utilizamos a biblioteca Pandas para importar os dados do arquivo CSV de aluguéis e carregá-los em um DataFrame. 
 - Limpeza dos dados: Remoção de valores nulos.
